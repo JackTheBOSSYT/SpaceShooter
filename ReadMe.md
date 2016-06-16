@@ -1,7 +1,7 @@
 #Tanks
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
 <b>Class:</b> Computer Science Enginerring (CSE) - 1st Year (Freshman)<br>
-<b>Info:</b> Tanks is a game where there are two tanks that two players are controlling. The goal is to destroy the other player<br>
+<b>Info:</b> Spaceshooter is a game where a spacecraft is shooting asteroids and enemy ships.<br>
 <b>How To Play:</b>
 <b>PLAYER 1</b>
 <b> ↑ = Forward</b>
